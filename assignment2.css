@@ -55,7 +55,6 @@ body {
 }
 
 
-
 .probaX {
     position: absolute;
 
@@ -78,7 +77,7 @@ body {
 @keyframes animacija1 {
     0% {
         transform: scale(0);
-       filter: brightness(140%);
+       
        
     }
     100% {
